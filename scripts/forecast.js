@@ -2,7 +2,7 @@
 
 
 // API key
-const key = 'pTzlxRxA0pxSkaHH6uVzajx53ySgZOc2';
+const key = 'LfQppPWwAIDm92kMRIp1hbuCK5NlmYSK';
 
 
 // Get weather information
